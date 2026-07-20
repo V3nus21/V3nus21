@@ -10,7 +10,6 @@
 
 - 🎂 16 anos
 - 📚 Estudando Desenvolvimento de Software
-- 🎮 Desenvolvendo meu primeiro jogo na Unreal Engine 5
 - 🌱 Atualmente aprendendo HTML, CSS, JavaScript e Git
 - 🎯 Objetivo: trabalhar como Desenvolvedor de Software e criar minha própria empresa de tecnologia.
 
@@ -29,7 +28,6 @@
 
 - ✅ Conseguir estágio como Desenvolvedor
 - 🔥 Construir um portfólio forte
-- 🎮 Publicar meu primeiro jogo
 - 📚 Aprender React
 - ⚡ Aprender Node.js
 

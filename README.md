@@ -24,15 +24,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=V3nus21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3nus21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🎯 Objetivos para 2026
 
